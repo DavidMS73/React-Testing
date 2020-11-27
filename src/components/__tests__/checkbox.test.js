@@ -3,6 +3,7 @@ import ReactDOM from "react-dom";
 import { act } from "react-dom/test-utils";
 import Checkbox from "../checkbox";
 
+
 let container;
 
 beforeEach(() => {
