@@ -7,8 +7,8 @@ Angela Suárez 201612007
 
 ## Pasos
 2. Ejecutar el comando `npm install`.
-3. Ejecutar el comando `npm start`
-4. Correr los test con el comando `npm test`
+3. Ejecutar el comando `npm start`.
+4. Correr los test con el comando `npm test`.
 
 > Seleccionar la opción *a* para correr todos los test.
 
